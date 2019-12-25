@@ -1,4 +1,4 @@
-# AIAP Technical Assessment
+# Project
 
 A simple machine learning pipeline is created that will ingest the dataset and feed into 2 machine learning algorithms, returning metric outputs.
 
