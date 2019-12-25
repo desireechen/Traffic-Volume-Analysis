@@ -1,0 +1,4 @@
+Python==3.6.9
+pandas==0.25.3
+cufflinks==0.17.0
+sklearn==0.22
